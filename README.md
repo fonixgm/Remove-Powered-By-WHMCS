@@ -1,4 +1,4 @@
-
+f
 # Remove Powered By WHMCS
 
 A simple WHMCS hook script to customize the footer text and URL. This script replaces the "Powered by WHMCompleteSolution" text with your own branding and updates the URL accordingly.
@@ -7,7 +7,7 @@ A simple WHMCS hook script to customize the footer text and URL. This script rep
 **Custom WHMCS Footer Hook -** a simple script to customize the footer text and URL in WHMCS. Change "Powered by WHMCompleteSolution" to your own branding and link.
 ## Features
 
-**Modify Footer Text:** Changes "Powered by WHMCompleteSolution" to "Powered by neenbyss".
+**Modify Footer Text:** Changes "Powered by WHMCompleteSolution" to "Powered by company".
 **Update Footer URL:** Replaces the WHMCS link with a custom URL (https://company.com).
 
 ## Installation
